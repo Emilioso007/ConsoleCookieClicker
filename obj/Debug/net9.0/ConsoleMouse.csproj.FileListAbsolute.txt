@@ -1,0 +1,14 @@
+C:\Users\emilj\Documents\Code\ConsoleMouse\bin\Debug\net9.0\ConsoleMouse.exe
+C:\Users\emilj\Documents\Code\ConsoleMouse\bin\Debug\net9.0\ConsoleMouse.deps.json
+C:\Users\emilj\Documents\Code\ConsoleMouse\bin\Debug\net9.0\ConsoleMouse.runtimeconfig.json
+C:\Users\emilj\Documents\Code\ConsoleMouse\bin\Debug\net9.0\ConsoleMouse.dll
+C:\Users\emilj\Documents\Code\ConsoleMouse\bin\Debug\net9.0\ConsoleMouse.pdb
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.AssemblyInfo.cs
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.dll
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\refint\ConsoleMouse.dll
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.pdb
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.genruntimeconfig.cache
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ref\ConsoleMouse.dll
