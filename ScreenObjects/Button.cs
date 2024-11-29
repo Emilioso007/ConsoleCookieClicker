@@ -21,7 +21,7 @@ public class Button : Border
 	{
 		base.Update();
 		
-		int labelX = X + (W - 2 - label.content.Length) / 2 + 1;
+		int labelX = X + (W - 2 - label.Content.Length) / 2 + 1;
 		int labelY = Y + H / 2;
 		
 		label.SetPos(labelX, labelY);

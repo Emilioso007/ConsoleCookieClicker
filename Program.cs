@@ -10,7 +10,7 @@ public class Program {
 		Game game = new Game();
 		
 		Mouse.Initialize();
-		while (game.running)
+		while (game.Running)
 		{
 			Mouse.Update();
 			game.Update();

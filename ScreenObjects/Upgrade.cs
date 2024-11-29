@@ -24,12 +24,12 @@ public class Upgrade : Button
 		this.scorePerSecond = scorePerSecond;
 		count = 0;
 
-		label.content = name + ": " + currentCost + "$ <" + count + ">";
+		label.Content = name + ": " + currentCost + "$ <" + count + ">";
 	}
 
 	public override void Draw (Canvas canvas)
 	{
-		label.content = name + ": " + currentCost + "$ <" + count + ">";
+		label.Content = name + ": " + currentCost + "$ <" + count + ">";
 		base.Draw(canvas);
 	}
 

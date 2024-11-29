@@ -4,18 +4,18 @@ namespace ConsoleMouse.ScreenObjects;
 public class Label
 {
 	private int x, y;
-	public string content;
+	public string Content;
 	
 	public Label(int x, int y, string content = "Label")
 	{
 		this.x = x;
 		this.y = y;
-		this.content = content;
+		this.Content = content;
 	}
 
 	public void Draw (Canvas canvas)
 	{
-		canvas.AddContent(content, x, y);
+		canvas.AddContent(Content, x, y);
 	}
 
 	public void SetPos(int x, int y)

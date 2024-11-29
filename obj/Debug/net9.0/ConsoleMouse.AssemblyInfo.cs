@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243918306d03f6f4c7e052f2523ca0cc4d4a1af7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleMouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

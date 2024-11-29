@@ -12,3 +12,4 @@ C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\refint\ConsoleMouse.
 C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.pdb
 C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.genruntimeconfig.cache
 C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ref\ConsoleMouse.dll
+C:\Users\emilj\Documents\Code\ConsoleMouse\obj\Debug\net9.0\ConsoleMouse.sourcelink.json
